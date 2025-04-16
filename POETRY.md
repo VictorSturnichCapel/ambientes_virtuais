@@ -15,3 +15,9 @@ poetry config virtualenvs.in-project true
 
 poetry new XXXX
 
+poetry install
+
+poetry shell
+
+poetry config virtualenvs.in-project true  
+
